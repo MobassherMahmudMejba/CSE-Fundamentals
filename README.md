@@ -8,10 +8,11 @@ A comprehensive record of mastering Computer Science fundamentals, focusing on e
 - **Concepts:** Memory Management, Data Structures, Algorithms
 
 ## 📂 Learning Roadmap
-- [x] **Memory Management:** Mastering Heap vs Stack, Pointers, and Dynamic Allocation.
-- [ ] - [x] **Dynamic Arrays:** Handling runtime memory allocation and array expansion.
+- [x] **Memory Management:** Mastering Heap vs Stack, Pointers, and Dynamic Allocation..
 - [ ] **Data Structures:** Implementing Stacks, Linked Lists, and Trees (In Progress).
 - [ ] **Algorithms:** Sorting, Searching, and Complexity Analysis.
 
 ---
 *"Stay Hard. Building the foundation for high-performance software engineering."*
+## 🏫 Topic Covered
+- [x] **Dynamic Arrays:** Handling runtime memory allocation and array expansion
