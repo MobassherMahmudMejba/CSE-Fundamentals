@@ -15,4 +15,5 @@ A comprehensive record of mastering Computer Science fundamentals, focusing on e
 ---
 *"Stay Hard. Building the foundation for high-performance software engineering."*
 ## 🏫 Topic Covered
+- [x] **C++ Basics:** Dealing with regular syntax 
 - [x] **Dynamic Arrays:** Handling runtime memory allocation and array expansion
